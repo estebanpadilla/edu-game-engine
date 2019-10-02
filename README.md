@@ -2,16 +2,9 @@
 
 ## Install dependencies
 
-    yarn
+    npm install
 
 ## Run project in watch mode
 
-    yarn start
+    npm start
 
-## Build project (for development)
-
-    yarn build
-
-## Build project (for production)
-
-    yarn build:prod
